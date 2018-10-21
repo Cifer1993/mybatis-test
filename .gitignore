@@ -2,3 +2,4 @@
 *.iml
 /target
 mybatis01-test/.idea
+mybatis01-test/target
